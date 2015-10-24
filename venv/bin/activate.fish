@@ -32,7 +32,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/lindapeng/Desktop/lindaprojects/python/dgirls/venv"
+set -gx VIRTUAL_ENV "/Users/lindapeng/Desktop/lindaprojects/python/completed-djangogirls-tutorial/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
